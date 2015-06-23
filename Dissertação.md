@@ -1,7 +1,6 @@
 Estilos de Arquitetura e o Projeto de Arquiteturas de Software Baseadas em Redes
 ====================
 
----
 
 Título original: [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm).
 
@@ -29,7 +28,6 @@ por
 [Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/)
 
 2000
-
 
 
 Comitê de Dissertação:<br>
@@ -71,11 +69,11 @@ Richard descreve a si mesmo [em sua página pessoal](https://www.ics.uci.edu/~fi
 
 &nbsp;
 
-> Quase todo mundo se sente em paz com a natureza: ouvindo as ondas do oceano<br>
+> Quase todo mundo se sente em paz com a natureza: ouvindo as ondas do oceano
 > contra a praia, em um calmo lago, em um campo gramado, em uma charneca ventanosa.<br>
-> Um dia, quando tivermos aprendido o jeito atemporal [de fazer as coisas], nós sentiremos o mesmo<br>
-> para com as nossas cidades, e nós sentiremos a mesma paz nelas, tal como sentimos hoje caminhando pelo<br>
-> oceano, ou deitados na vasta grama de um pasto.<br>
+> Um dia, quando tivermos aprendido o jeito atemporal [de fazer as coisas], nós sentiremos o mesmo
+> para com as nossas cidades, e nós sentiremos a mesma paz nelas, tal como sentimos hoje caminhando pelo
+> oceano, ou deitados na vasta grama de um pasto.
 > **Cristopher Alexander, The Timeless Way of Building (1979)**
 
 ---
