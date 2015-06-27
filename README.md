@@ -1,4 +1,4 @@
-# Sobre a Tradução
+# Estilos de Arquitetura e o Projeto de Arquiteturas de Software Baseadas em Redes
 
 Título original: [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm).
 
