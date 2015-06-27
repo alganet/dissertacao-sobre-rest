@@ -16,7 +16,7 @@ por
 2000
 
 
-Comitê de Orientação
+Comitê de Orientação:
 Professor [Richard N. Taylor](http://www.ics.uci.edu/~taylor/), Chair<br>
 Professor [Mark S. Ackerman](https://www.eecs.umich.edu/eecs/faculty/eecsfaculty.html?uniqname=ackerm)<br>
 Professor [David S. Rosenblum](http://www.comp.nus.edu.sg/~david/)<br>
