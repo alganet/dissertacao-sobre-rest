@@ -2,8 +2,6 @@
 
 _Comentário do Tradutor_: Essa dissertação foi a obra que definiu o estilo arquitetural REST e formalizou boa parte da arquitetura da Web que havia sido construída nos anos anteriores. 
 
-# [Ir para o Índice](SUMMARY.md)
-
 ---
 
 Título original: [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm).
