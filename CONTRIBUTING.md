@@ -1,6 +1,6 @@
 # Como Contribuir
 
-Além da tradução do texto, esse projeto tenta criar links para as pessoas, projetos, empresas e idéias mencionadas por Roy Fielding.
+Além da [tradução do texto](README.md), esse projeto tenta criar links para as pessoas, projetos, empresas e idéias mencionadas por Roy Fielding.
 
  - Se você encontrar algum **termo que merece um link** que contribui com a obra, por favor entre em contato ou apenas clone o projeto e contribua pelo GitHub. Seu nome será mencionado nos créditos como editor, tradutor e/ou revisor.
 
