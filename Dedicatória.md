@@ -16,23 +16,23 @@ por fazer a _World Wide Web_ um projeto aberto e colaborativo.
 > O que é vida?<br>
 > É o piscar de um vagalume na noite.<br>
 > É o respirar de um búfalo no inverno.<br>
-> É a pequena sombra que corre junto à grama.<br>
+> É a pequena sombra que corre junto à grama<br>
 > e se perde no nascer do sol.<br>
-> **Últimas palavras de Crowfoot (1890), guerreiro Blackfoot e orador.**
+> **Últimas palavras de [Crowfoot](https://en.wikipedia.org/wiki/Crowfoot) (1890), guerreiro [Blackfoot](https://en.wikipedia.org/wiki/Blackfoot_Confederacy) e orador.**
 
 ---
 
 *Comentários do tradutor*:
 
-Richard descreve a si mesmo [em sua página pessoal](https://www.ics.uci.edu/~fielding/) como uma mistura de [Maori](https://en.wikipedia.org/wiki/M%C4%81ori_people), [Kiwi](https://en.wikipedia.org/wiki/Kiwi_%28people%29), Ianque, Irlandês, Escocês, Inglês, e mendigo das praias da California. Ao citar [Crowfoot](https://en.wikipedia.org/wiki/Crowfoot), ele também faz uma referência às [Primeiras Nações](https://pt.wikipedia.org/wiki/Primeiras_Na%C3%A7%C3%B5es).
+Roy descreve a si mesmo [em sua página pessoal](https://www.ics.uci.edu/~fielding/) como uma mistura de [Maori](https://en.wikipedia.org/wiki/M%C4%81ori_people), [Kiwi](https://en.wikipedia.org/wiki/Kiwi_%28people%29), Ianque, Irlandês, Escocês, Inglês, e mendigo das praias da California. Ao citar [Crowfoot](https://en.wikipedia.org/wiki/Crowfoot), ele também faz uma referência às [Primeiras Nações](https://pt.wikipedia.org/wiki/Primeiras_Na%C3%A7%C3%B5es).
 
 ---
 
 &nbsp;
 
 > Quase todo mundo se sente em paz com a natureza: ouvindo as ondas do oceano
-> contra a praia, em um calmo lago, em um campo gramado, em uma charneca ventanosa.<br>
-> Um dia, quando tivermos aprendido o jeito atemporal [de fazer as coisas], nós sentiremos o mesmo
+> contra a praia, em um lago tranquilo, em um campo gramado, em uma charneca ventanosa.<br>
+> Um dia, quando tivermos aprendido novamente o jeito atemporal [de fazer as coisas], nós sentiremos o mesmo
 > para com as nossas cidades, e nós sentiremos a mesma paz nelas, tal como sentimos hoje caminhando pelo
 > oceano, ou deitados na vasta grama de um pasto.
 > **Cristopher Alexander, The Timeless Way of Building (1979)**
