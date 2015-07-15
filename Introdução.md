@@ -1,7 +1,8 @@
 # Introdução
 
-*Com licença... você disse 'facas'?*
-        -- City Gent #1 (Michael Palin), The Architects Sketch [111]
+> *Com licença... você disse 'facas'?*
+>
+>       -- City Gent #1 (Michael Palin), The Architects Sketch [111]
 
 Assim como previsto anteriormente por Perry e Wolf [105], a arquitetura de software tem sido um ponto de foco para pesquisas de engenharia de software nos anos 1990. A complexidade dos sistemas de software modernos implicaram em uma ênfase ainda maior em sistemas separados por componentes, onde a implementação é particionada em componentes independentes que se comunicam para realizar as tarefas desejadas. A pesquisa científica de arquitetura de software investiga métodos para determinar qual a melhor maneira de particionar um sistema, como identificar seus componentes e estabelecer a comunicação entre eles, como a informação é estabelecida, como os elementos do sistema podem evoluir independentemente e como tudo isso pode ser descrito utilizando-se de uma notação formal e informal.
 
