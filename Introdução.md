@@ -1,6 +1,6 @@
 # Introdução
 
-> *Com licença... você disse 'facas'?*
+> *Desculpe-me mas... você disse 'facas'?*
 >
 >       -- City Gent #1 (Michael Palin), The Architects Sketch [111]
 
