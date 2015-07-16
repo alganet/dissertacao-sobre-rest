@@ -6,5 +6,3 @@
 * [Dedicatória](Dedicatória.md)
 * [Agradecimentos](Agradecimentos.md)
 * [Introdução](Introdução.md)
-* 
-
