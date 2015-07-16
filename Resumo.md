@@ -1,7 +1,7 @@
 Resumo da Dissertação
 --------------
 
-Modelos e Projetos de Arquiteturas de Software Baseados em Redes
+Modelos e Projetos de Arquiteturas de Software Baseadas em Redes
 
 por
 

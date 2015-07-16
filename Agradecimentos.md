@@ -1,5 +1,4 @@
-Agradecimentos
---------------
+# Agradecimentos
 
 Tem sido um prazer trabalhar com o corpo docente, funcionários e estudantes na [Universidade da Califórnia](https://pt.wikipedia.org/wiki/Universidade_da_Calif%C3%B3rnia), em Irvine, durante meu período como doutorando. Esse trabalho não teria sido possível se não fosse pela liberdade que eu recebi para perseguir meus próprios interesses acadêmicos, em grande parte graças à bondade e considerável mentoria provida por [Dick Taylor](http://ucnet.universityofcalifornia.edu/news/2014/01/uc-irvines-dick-taylor-transforming-the-field-of-ics.html), meu orientador de longas datas. [Mark Ackerman](https://www.eecs.umich.edu/eecs/faculty/eecsfaculty.html?uniqname=ackerm) também merece grande parte da minha gratidão, porque foi sua aula sobre serviços de informação distribuídos em 1993 que fui introduzido à comunidade de desenvolvedores da Web e que norteou todo o trabalho realizado e descrito nesta dissertação. Da mesma maneira, foi o trabalho de [David Rosenblum](http://www.comp.nus.edu.sg/~david/) sobre arquiteturas de software para a escala de Internet que me convenceu a pensar na minha própria pesquisa em termos de arquitetura, ao invés de simplesmente hipermídia ou o projeto de protocolos da camada de aplicação.
 
