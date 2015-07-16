@@ -1,6 +1,6 @@
 # Introdução
 
-> *Desculpe-me mas... você disse 'facas'?*
+> *Desculpe-me mas... você disse 'lâminas'?*
 >
 -- City Gent #1 (Michael Palin), [The Architects Sketch](https://www.youtube.com/watch?v=YW8z9qNA-WM) [[111](Referências#111)]
 
