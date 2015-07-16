@@ -5,5 +5,6 @@
 * [Capa](Capa.md)
 * [Dedicatória](Dedicatória.md)
 * [Agradecimentos](Agradecimentos.md)
+* [Resumo](Resumo.md)
 * [Introdução](Introdução.md)
 * [Referências](Referências.md)
