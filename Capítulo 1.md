@@ -61,3 +61,11 @@ Um dado (*datum*) é um elemento de informação que é transferida a partir de 
 
 A natureza dos elementos de dados dentro de uma arquitetura de aplicativo baseada em rede, muitas vezes, determinará um determinado estilo arquitetônico é apropriado ou não. Isto é particularmente evidente na comparação dos paradigmas de *design* de codificação de códigos móveis [[50](Referências#50)], em que a escolha deve ser feita entre interagir com um componente diretamente ou transformar o componente em um elemento de dados, transferindo-o através de uma rede, e em seguida, transformá-lo de volta a um componente que pode ser interagido localmente. É impossível avaliar tal arquitetura sem considerar os elementos de dados a nível arquitetônico.
 
+
+### 1.3 Configurações
+
+> Uma configuração é a estrutura das relações entre os componentes arquitetônicos, conectores e dados durante um período de tempo de execução do sistema.
+
+**Abowd et al.** [[1](Referências#1)] definem a descrição arquitetônica como o apoio à descrição dos sistemas em termos de três classes sintáticas básicas: componentes, que são o *locus* da computação; conectores, que definem as interações entre os componentes e configurações, que são coleções de componentes e conectores que se interagem. Várias notações concretas de estilos específicos podem ser usadas para representar estas classes sintáticas básicas visualmente, facilitar a descrição dos cálculos legais e interações, e restringir o conjunto de sistemas desejáveis.
+
+Falando de maneira restrita, pode-se pensar em uma configuração como sendo equivalente a um conjunto de restrições específicas sobre a interação de componentes. Por exemplo, **Perry e Wolf** [[105](Referências#105)] incluem topologia em sua definição de relações de formas arquitetônicas. No entanto, separando a topologia ativa de restrições mais generalizadas permite que um arquiteto de diferencie a configuração ativa do domínio em potencial de todas as configurações legítimas. Lógica *(rationale)* adicional para distinguir configurações dentro de linguagens de descrição de arquitetura é apresentado em **Medvidovic e Taylor** [[86](Referências#86)].
