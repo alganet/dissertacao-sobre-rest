@@ -119,7 +119,7 @@ De muitas formas, os padrões de **Alexander** têm mais em comum com estilos ar
 
 Além das muitas arquiteturas dentro de um sistema, e os diversos estilos arquitetônicos de que as arquiteturas são compostas, também é possível ver uma arquitetura de muitas perspectivas diferentes. **Perry e Wolf** [[105](Referências#105)] descrevem três visões importantes na arquitetura de software: processamento, dados e visualizações de conexão. Uma **visão de processo** enfatiza o fluxo de dados através dos componentes e alguns aspectos das ligações entre os componentes em relação aos dados. A **visão de dados** enfatiza o fluxo de processamento, com menos ênfase nos conectores. Uma **visão de conexão** enfatiza a relação entre os componentes e o estado de comunicação.
 
-Várias visões de arquitetura são comuns dentro de estudos de caso de arquiteturas específicas [[9](Referências#9)]. Uma metodologia de *design* arquitetônico, o *4+1 View Model* [[74](Referências)], organiza a descrição de uma arquitetura de software utilizando cinco pontos de vista simultâneos, cada um dos quais aborda um conjunto específico de preocupações.
+Várias visões de arquitetura são comuns dentro de estudos de caso de arquiteturas específicas [[9](Referências#9)]. Uma metodologia de *design* arquitetônico, o *4+1 View Model* [[74](Referências#74)], organiza a descrição de uma arquitetura de software utilizando cinco pontos de vista simultâneos, cada um dos quais aborda um conjunto específico de preocupações.
 
 
 ### 1.8 Trabalho Relacionado
