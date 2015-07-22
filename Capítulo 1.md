@@ -111,3 +111,17 @@ Como estilos arquitetônicos de software, a pesquisa de padrões de software se 
 > O padrão é, em suma, ao mesmo tempo uma coisa que acontece no mundo e a regra que nos diz como criar aquela coisa, e quando devemos criá-la. É, ao mesmo tempo, um processo e uma coisa; tanto uma descrição de uma coisa que está viva e uma descrição do processo que irá gerar essa coisa. [[3](Referências#3)]
 
 De muitas formas, os padrões de **Alexander** têm mais em comum com estilos arquitetônicos de software do que os padrões de *design* da pesquisa de OOPL (linguagem de programação de orientação a objetos). Um estilo arquitetônico, como um conjunto coordenado de restrições, é aplicado a um espaço de *design* a fim de induzir as propriedades arquitetônicas que são desejadas do sistema. Ao aplicar um estilo, um arquiteto estará diferenciando o espaço de *design* de software na esperança de que o resultado será melhor combinado com as forças inerentes à aplicação, levando assim ao comportamento do sistema que aumenta o padrão natural, em vez de entrar em conflito com ele.
+
+
+### 1.7 Visões
+
+> Um ponto de vista arquitetônico é muitas vezes específico de aplicação e varia amplamente com base no domínio de aplicação. ... Vimos pontos de vista arquitetônicos que abordam uma variedade de questões, incluindo: questões temporais, abordagens de estado e controle, representação de dados, ciclo de vida de transação, garantias de segurança e picos de de demanda e degradação. Sem dúvida, existem muitos mais pontos de vista possíveis. [[70](Referências#70)]
+
+Além das muitas arquiteturas dentro de um sistema, e os diversos estilos arquitetônicos de que as arquiteturas são compostas, também é possível ver uma arquitetura de muitas perspectivas diferentes. **Perry e Wolf** [[105](Referências#105)] descrevem três visões importantes na arquitetura de software: processamento, dados e visualizações de conexão. Uma **visão de processo** enfatiza o fluxo de dados através dos componentes e alguns aspectos das ligações entre os componentes em relação aos dados. A **visão de dados** enfatiza o fluxo de processamento, com menos ênfase nos conectores. Uma **visão de conexão** enfatiza a relação entre os componentes e o estado de comunicação.
+
+Várias visões de arquitetura são comuns dentro de estudos de caso de arquiteturas específicas [[9](Referências#9)]. Uma metodologia de *design* arquitetônico, o *4+1 View Model* [[74](Referências)], organiza a descrição de uma arquitetura de software utilizando cinco pontos de vista simultâneos, cada um dos quais aborda um conjunto específico de preocupações.
+
+
+### 1.8 Trabalho Relacionado
+
+Incluo aqui apenas as áreas de pesquisa que definem arquitetura de software ou descrevem os estilos de arquitetura de software. Outras áreas de arquitetura de pesquisa de arquitetura de software incluem técnicas de análise de arquitetura, arquitetura de recuperação e re-engenharia, ferramentas e ambientes para o *design* arquitetônico, arquitetura refinamento da especificação para implementação e estudos de caso de arquiteturas de software implementados [[55](Referências#55)]. Trabalhos relacionados nas áreas de classificação de estilo, paradigmas de processo distribuídos e *middleware* são discutidos no [Capítulo 3](Capítulo 3).
