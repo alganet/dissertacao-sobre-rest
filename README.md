@@ -1,4 +1,4 @@
-# Modelos Arquitetônicos e Design de Arquiteturas de Software Baseadas em Rede
+# Estilos Arquitetônicos e o Design de Arquiteturas de Software Baseados em Rede
 
 _Comentário do Tradutor_: Essa dissertação foi a obra que definiu o estilo arquitetural REST e formalizou boa parte da arquitetura da Web que havia sido construída nos anos anteriores. 
 
