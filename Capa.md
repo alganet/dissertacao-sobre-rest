@@ -1,6 +1,6 @@
 #### [UNIVERSIDADE DA CALIFÓRNIA, IRVINE](https://pt.wikipedia.org/wiki/Universidade_da_Calif%C3%B3rnia)
 
-### Modelos Arquitetônicos e Design de Arquiteturas de Software Baseadas em Rede
+### Estilos Arquitetônicos e o Design de Arquiteturas de Software Baseados em Rede
 
 
 #### DISSERTAÇÃO
