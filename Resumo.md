@@ -1,6 +1,6 @@
 # Resumo da Dissertação
 
-## Modelos Arquitetônicos e Design de Arquiteturas de Software Baseadas em Rede
+## Estilos Arquitetônicos e o Design de Arquiteturas de Software Baseados em Rede
 
 por
 
