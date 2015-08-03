@@ -4,6 +4,7 @@
 
 Este capítulo continua a discussão de material de apoio concentrando-se em arquiteturas de aplicativos baseados em rede e descrevendo como os estilos podem ser usados ​​para guiar o *design* arquitetônico.
 
+
 ### 2.1 Escopo
 
 A arquitetura é encontrada em vários níveis dentro de sistemas de software. Esta dissertação analisa o nível mais alto de abstração em arquitetura de software, onde as interações entre componentes são capazes de ser realizadas em comunicação de rede. Nós limitamos a nossa discussão a estilos de arquiteturas de aplicativos baseados em rede, a fim de reduzir as dimensões de variação entre os estilos estudados.
