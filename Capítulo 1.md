@@ -124,7 +124,7 @@ Várias visões de arquitetura são comuns dentro de estudos de caso de arquitet
 
 ### 1.8 Trabalho Relacionado
 
-Incluo aqui apenas as áreas de pesquisa que definem arquitetura de software ou descrevem os estilos de arquitetura de software. Outras áreas de pesquisa de arquitetura de software incluem técnicas de análise de arquitetura, arquitetura de recuperação e re-engenharia, ferramentas e ambientes para o *design* arquitetônico, arquitetura refinamento da especificação para implementação e estudos de caso de arquiteturas de software implementados [[55](Referências.md#55)]. Trabalhos relacionados nas áreas de classificação de estilo, paradigmas de processo distribuídos e *middleware* são discutidos no [Capítulo 3](Capítulo 3).
+Incluo aqui apenas as áreas de pesquisa que definem arquitetura de software ou descrevem os estilos de arquitetura de software. Outras áreas de pesquisa de arquitetura de software incluem técnicas de análise de arquitetura, arquitetura de recuperação e re-engenharia, ferramentas e ambientes para o *design* arquitetônico, arquitetura refinamento da especificação para implementação e estudos de caso de arquiteturas de software implementados [[55](Referências.md#55)]. Trabalhos relacionados nas áreas de classificação de estilo, paradigmas de processo distribuídos e *middleware* são discutidos no [Capítulo 3](Capítulo 3.md).
 
 
 #### 1.8.1. Metodologias de Design
